@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    size: 120px;
+}
+h2{
+    text-align: center;
+    size: 80px;
+}
+pre{
+    font-size: larger;
+}
+img{
+    height: 500px;
+    width:  500px;
+
+}
